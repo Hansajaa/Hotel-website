@@ -17,5 +17,10 @@ This repository contains the source code for a hotel website. The website is bui
 - CSS
 - JavaScript
 
-## Project Structure
+## How to Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Hansajaa/Hotel-website.git
 
